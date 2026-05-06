@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentation (Word files)
+*.docx
+*.doc
+
+# Database backups
+*.sql.bak
+*.backup
+
+# Environment variables
+.env
+.env.local
+
+# Composer
+vendor/
+composer.lock
+
+# Node modules (if using npm/webpack)
+node_modules/
+package-lock.json
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Cache
+*.cache
+
+# Organize script (no need to commit)
+organize.bat
+organize.ps1
