@@ -40,7 +40,6 @@ JomBus/
 │   └── create_database.sql     # Database schema
 │
 ├── .gitignore                  # Git ignore configuration
-├── LICENSE                     # MIT License
 └── README.md                   # This file
 ```
 
